@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmileMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_button_text">Location</string>
+    <string name="schedule_consultation_button_text">Schedule a consultation</string>
+    <string name="background_imageview">Just smile!</string>
+    <string name="company_name">SmileMe</string>
+    <string name="operation_hours">We are open 24/7</string>
+    <string name="about_us_text">Do you ever find yourself in bad mood? We hasten to assure you that root of most problems is only in your consciousness. SmileMe is a service which gives more smiles, fun, balance, and optimism. When you visit us you will be surprised of power of setting your positive life. Just contact us to schedule a meeting in our offices.</string>
+</resources>
